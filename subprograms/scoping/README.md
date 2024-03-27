@@ -1,0 +1,3 @@
+In static (lexical) scoping, the scope of a variable is determined by its position within the source code, and the binding of a name to its variable is resolved at compile time. This means that the scope of a variable can be determined by reading the program. Languages that use static scoping include C, Java, and Python.
+
+In dynamic scoping, the scope of a variable is determined at runtime, depending on the order of function calls. This means that the binding of a name to its variable can change depending on the specific sequence of function calls that led to the current point of execution. Examples of languages that have supported dynamic scoping include early versions of Lisp.
