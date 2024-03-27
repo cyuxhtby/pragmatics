@@ -1,0 +1,1 @@
+A closure is a type of subprogram that can capture and hold onto variables from its parent scope, even after the parent function has completed execution.
